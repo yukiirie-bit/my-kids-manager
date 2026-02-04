@@ -18,7 +18,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yourname.kidsmanager"
+      "bundleIdentifier": "com.yukiirie.kidsmanager"
     },
     "android": {
       "adaptiveIcon": {
