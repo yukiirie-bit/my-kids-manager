@@ -11,6 +11,11 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "extra": {
+      "eas": {
+        "projectId": "907ff494-a05e-4e9c-ace0-7edf1c201616"
+      }
+    },
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.yourname.kidsmanager"
